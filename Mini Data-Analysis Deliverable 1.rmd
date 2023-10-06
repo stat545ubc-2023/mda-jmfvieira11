@@ -93,11 +93,11 @@ And that is exactly the first thing that you will do!
 
 <!-------------------------- Start your work below ---------------------------->
 
-Selected datasets:
-1. apt_buildings 
-2. flow_sample 
-3. cancer_sample 
-4. vancouver_trees
+> Selected datasets:
+> 1. apt_buildings 
+> 2. flow_sample 
+> 3. cancer_sample 
+> 4. vancouver_trees
 
 <!----------------------------------------------------------------------------->
 
@@ -190,7 +190,7 @@ Make sure that you're using dplyr and ggplot2 rather than base R for this task. 
 
 <!-------------------------- Start your work below ---------------------------->
 
-### To explore the research question
+> ### To explore the research question
 
 > To start, lets play with numbers and check the height distribution in Vancouver. Is there a trend for height ranges?
 
@@ -268,14 +268,14 @@ plot(RobPseucacia_neighbs)
 
 <!--- *****START HERE***** --->
 
-### Choosing 4 research questions to further explore the dataset.
-
-To continue my investigation about Vancouver and its neighborhoods preferences about tree height and types I will explore the following questions:
-
-1.  What are the most common tree species in the neighborhoods?
-2.  How does tree height vary among different tree species? Are certain species generally taller than others?
-3.  Are there temporal trends in tree height? Has there been a change in the height of trees planted over the years?
-4.  Do some trees in specific neighborhoods tend to grow taller?
+> ### Choosing 4 research questions to further explore the dataset.
+> 
+> To continue my investigation about Vancouver and its neighborhoods preferences about tree height and types I will explore the following questions:>>
+>
+> 1.  What are the most common tree species in the neighborhoods?
+> 2.  How does tree height vary among different tree species? Are certain species generally taller than others?
+> 3.  Are there temporal trends in tree height? Has there been a change in the height of trees planted over the years?
+> 4.  Do some trees in specific neighborhoods tend to grow taller?
 
 <!----------------------------->
 
