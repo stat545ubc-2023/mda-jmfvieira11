@@ -1,9 +1,3 @@
----
-output: 
-  html_document:
-    keep_md: true
----
-
 Mini Data Analysis - Deliverable 1
 ================
 Juliana\
@@ -107,11 +101,11 @@ And that is exactly the first thing that you will do!
 
 <!-------------------------- Start your work below ---------------------------->
 
-Selected datasets:
-1. apt_buildings 
-2. flow_sample 
-3. cancer_sample 
-4. vancouver_trees
+> Selected datasets:
+> 1. apt_buildings 
+> 2. flow_sample 
+> 3. cancer_sample 
+> 4. vancouver_trees
 
 <!----------------------------------------------------------------------------->
 
@@ -382,7 +376,7 @@ Make sure that you're using dplyr and ggplot2 rather than base R for this task. 
 
 <!-------------------------- Start your work below ---------------------------->
 
-### To explore the research question
+>### To explore the research question
 
 > To start, lets play with numbers and check the height distribution in Vancouver. Is there a trend for height ranges?
 
@@ -396,7 +390,7 @@ trees_height <- ggplot(vancouver_trees, aes(height_range_id)) +
 plot(trees_height)
 ```
 
-![](Mini-Data-Analysis-Deliverable-1_files/figure-html/unnamed-chunk-5-1.png)<!-- -->
+![image](https://github.com/stat545ubc-2023/mda-jmfvieira11/assets/65200070/8e3344be-19e2-451f-b0cb-3c0c58b87984)<!-- -->
 
 > \*\* *The majority of the trees seem to be rated 1 or 2 in the range "height_range_id", with the highest peak for trees rated 2. Showing a preference for small and medium trees.*\
 > \
@@ -413,7 +407,7 @@ trees_height <- ggplot(vancouver_trees, aes(height_range_id, neighbourhood_name)
 plot(trees_height)
 ```
 
-![](Mini-Data-Analysis-Deliverable-1_files/figure-html/unnamed-chunk-6-1.png)<!-- -->
+![image](https://github.com/stat545ubc-2023/mda-jmfvieira11/assets/65200070/7c533156-1ec2-4d33-a6b9-48fc86dcadb6)<!-- -->
 
 > \*\* *None of the neighborhoods have a preference for higher height trees. Most neighborhoods have an average of trees ranked height 2, with exception of 5 neighborhoods (West Point Grey, West End, Shaughnessy, Kitsilano and Fairview) with an average of trees ranked height 3. It differs from the distribuition plot since it is not shown a preference for small height trees (height rank = 1)*
 >
@@ -477,7 +471,7 @@ plot(RobPseucacia_neighbs)
 ## Warning: Removed 295 rows containing missing values (`geom_point()`).
 ```
 
-![](Mini-Data-Analysis-Deliverable-1_files/figure-html/unnamed-chunk-8-1.png)<!-- -->
+![image](https://github.com/stat545ubc-2023/mda-jmfvieira11/assets/65200070/982faa37-47f6-400b-a220-f3a466c11a53)<!-- -->
 
 > \*\* *There is not a clear relation between date planted and height rank for the ROBINIA PSEUDOACACIA tree species, thus the high height rank is not due the tree age. Some trees were planted before 1995 and range below 2.5 while some were planted after 2005 and range above 5. Fairview is the only neighborhood without this tree species, and there is no a clear preference across neighborhoods.*
 >
@@ -492,14 +486,14 @@ plot(RobPseucacia_neighbs)
 
 <!--- *****START HERE***** --->
 
-### Choosing 4 research questions to further explore the dataset.
-
-To continue my investigation about Vancouver and its neighborhoods preferences about tree height and types I will explore the following questions:
-
-1.  What are the most common tree species in the neighborhoods?
-2.  How does tree height vary among different tree species? Are certain species generally taller than others?
-3.  Are there temporal trends in tree height? Has there been a change in the height of trees planted over the years?
-4.  Do some trees in specific neighborhoods tend to grow taller?
+> ### Choosing 4 research questions to further explore the dataset.
+> 
+> To continue my investigation about Vancouver and its neighborhoods preferences about tree height and types I will explore the following questions:
+> 
+> 1.  What are the most common tree species in the neighborhoods?
+> 2.  How does tree height vary among different tree species? Are certain species generally taller than others?
+> 3.  Are there temporal trends in tree height? Has there been a change in the height of trees planted over the years?
+> 4.  Do some trees in specific neighborhoods tend to grow taller?
 
 <!----------------------------->
 
