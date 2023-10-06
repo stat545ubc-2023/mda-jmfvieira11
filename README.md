@@ -9,7 +9,7 @@ In particular, this repository will focus in a dataset about 'Vancouver Trees' a
 ## Repository Files 📁
 - `README.md`: The document you are currently reading, which provides essential context to the repository.
 - `Mini Data-Analysis Deliverable 1.rmd` : This file is addressing the first delivareble tasks. Practice of dplyr and ggplot2 with a research question in mind.
-- `Mini-Data-Analysis-Deliverable-1.md` : A "knitted" version of the `Mini Data-Analysis Deliverable 1.rmd` file described above.
+- `Mini-Data-Analysis-Deliverable-1.md` : A "knitted" version of the `Mini Data-Analysis Deliverable 1.rmd` file described above for Github visualization.
 - `.gitignore`: It is used by git to avoid tracking superfluous files.
 
 
