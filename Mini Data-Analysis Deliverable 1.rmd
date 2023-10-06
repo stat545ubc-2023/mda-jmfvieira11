@@ -151,7 +151,7 @@ glimpse(vancouver_trees)
 
 <!-------------------------- Start your work below ---------------------------->
 
-I will keep working with "vancouver_trees". I choose this dataset since there is a good balance between numeric and character variables. The dataset is not small, variables are easy to understand and it is interesting since I live in Vancouver.
+>I will keep working with "vancouver_trees". I choose this dataset since there is a good balance between numeric and character variables. The dataset is not small, variables are easy to understand and it is interesting since I live in Vancouver.
 
 <!----------------------------------------------------------------------------->
 
@@ -159,7 +159,7 @@ I will keep working with "vancouver_trees". I choose this dataset since there is
 
 <!-------------------------- Start your work below ---------------------------->
 
-What is the overall height distribution of trees in Vancouver and in the neighborhoods ? Are there outlines with exceptionally tall heights and is it due tree age?
+>What is the overall height distribution of trees in Vancouver and in the neighborhoods ? Are there outlines with exceptionally tall heights and is it due tree age?
 
 <!----------------------------------------------------------------------------->
 
