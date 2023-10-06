@@ -1,8 +1,10 @@
----
-title: "Mini Data-Analysis Deliverable 1"
-output: html_document
----
 
+Mini Data Analysis - Deliverable 1
+================
+Juliana\
+2023-10-06
+
+---
 # Welcome to your (maybe) first-ever data analysis project!
 
 And hopefully the first of many. Let's get started:
@@ -86,8 +88,11 @@ And that is exactly the first thing that you will do!
 
 <!-------------------------- Start your work below ---------------------------->
 
-Selected datasets:\
-1. apt_buildings 2. flow_sample 3. cancer_sample 4. vancouver_trees
+Selected datasets:
+1. apt_buildings 
+2. flow_sample 
+3. cancer_sample 
+4. vancouver_trees
 
 <!----------------------------------------------------------------------------->
 
