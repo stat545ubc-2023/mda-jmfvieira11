@@ -1,12 +1,3 @@
----
-title: "Mini Data Analysis Milestone 2"
-output: 
-  html_document:
-    keep_md: true
----
-
-*To complete this milestone, you can either edit [this `.rmd` file](https://raw.githubusercontent.com/UBC-STAT/stat545.stat.ubc.ca/master/content/mini-project/mini-project-2.Rmd) directly. Fill in the sections that are commented out with `<!--- start your work here--->`. When you are done, make sure to knit to an `.md` file by changing the output in the YAML header to `github_document`, before submitting a tagged release on canvas.*
-
 # Welcome to the rest of your mini data analysis project!
 
 In Milestone 1, you explored your data. and came up with research questions. This time, we will finish up our mini data analysis and obtain results for your data by:
